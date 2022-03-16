@@ -3,8 +3,8 @@
 - Get a random recipe if you are not sure what to eat, or search for a specific recipe. Or search by categories.
   Categories like countries or ingredients.
 
-- Used React.js, Axios as a data fetching library to perform HTTP request with it.
-- Material UI, react-router-dom, react-share, pagination, useParams, useEffect, useState were utilized.
+- Used **React.js**, Axios as a data fetching library to perform HTTP request with it.
+- **Material UI**, react-router-dom, react-share, pagination, useParams, useEffect, useState were utilized.
 - When Fetch API still have not loaded the specific request, then a spinner.gif shows the process it is not yet finished. This is for   making the app more user-friendly.
 
 # Getting Started 
