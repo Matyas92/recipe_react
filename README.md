@@ -1,4 +1,4 @@
-# Recipe finder with API 
+# Recipe finder with API, React.js, Material UI
 
 - Get a random recipe if you are not sure what to eat, or search for a specific recipe. Or search by categories.
   Categories like countries or ingredients.
